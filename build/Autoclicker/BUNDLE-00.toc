@@ -1,0 +1,3 @@
+([('Autoclicker',
+   '/Users/taeheonlee/Desktop/Python/Autoclicker/dist/Autoclicker',
+   'EXECUTABLE')],)
